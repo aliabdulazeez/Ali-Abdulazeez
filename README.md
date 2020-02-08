@@ -7,19 +7,3 @@
 
 
 
-
-
-
-
-
-
-
-	<i class="fas fa-phone"></i>
-					<span>+82 6580-7717</span>
-
-					<i class="fab fa-telegram"></i>
-					<span>@public_alans</span>
-
-					<i class="fas fa-envelope-square"></i>
-					<span>public.alans@gmail.com</span>
-
