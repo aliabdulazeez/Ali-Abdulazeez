@@ -251,9 +251,6 @@ li{
 /*End header*/
 
 /*Start about*/
-
-
-
 .about .container{
     display: flex;
     align-items: center;
@@ -279,14 +276,14 @@ li{
     font-weight: 300;
 }
 
-/* .profile-img{
+.profile-img{
     flex: 1;
     margin-right: 5rem;
 }
 
 .about-details{
     flex: 1;
-} */
+}
 
 .social-media{
     margin-top: 5rem;
@@ -649,7 +646,7 @@ input[type="submit"]:hover{
 				font-size: 3rem;
 			}
 
-			.about-container {
+			.about .container {
 				flex-direction: column;
 
 			}
