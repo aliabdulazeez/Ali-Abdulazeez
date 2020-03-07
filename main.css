@@ -493,6 +493,7 @@ textarea{
 }
 
 input[type="submit"]{
+    text-decoration: none;
     width: initial;
     background-color: #fd57bf;
     color: #eee;
@@ -503,8 +504,8 @@ input[type="submit"]{
 }
 
 input[type="submit"]:hover{
-    color: #221e3f;
-    background-color: #ffe838;
+    color: #ffffff;
+    background-color: #af297eea;
 }
 
 /*End contact*/
